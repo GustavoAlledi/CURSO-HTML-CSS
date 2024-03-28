@@ -1,0 +1,67 @@
+
+#titulo{
+   font-family: 'Diplomata';
+   text-align: center;
+ }
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightgray;
+    margin: 0px;
+}
+header{
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius:10px 0px ;
+}
+nav{
+    background-color: rgba(81, 119, 63, 0.185);
+    padding: 3px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.493);
+
+}
+nav > a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    margin-right: 30px;
+    
+
+}
+nav > a:hover{
+    text-decoration: underline;
+    color: blueviolet;
+    box-shadow: 1px 1px 1px lightcyan;
+}
+#noticias{
+    background-color: rgb(193, 201, 201);
+}
+footer{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    padding: 4px;
+    margin: 0px;
+}
+footer > p {
+    margin: 0px;
+}
+article > aside{
+    background-color: rgb(151, 151, 151);
+}
+main{
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 0px 10px;
+}
+article{
+    background-color: lightgray;
+    padding: 5px;
+}
+#cabeca{
+    background-color: black;
+    padding: 10px;
+
+}
+
